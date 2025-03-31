@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">WidgetTest</string>
+    <string name="app_name">직접 풀어보기 4-2</string>
     <string name="choose_gender">성별을 선택하세요</string>
     <string name="male">남성</string>
     <string name="female">여성</string>
